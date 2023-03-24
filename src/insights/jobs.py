@@ -14,7 +14,7 @@ def read(path: str) -> List[Dict]:
     Returns
     -------
     list
-        List of rows as dicts
+        List of rows as dictss
     """
     raise NotImplementedError
 
